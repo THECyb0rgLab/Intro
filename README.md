@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I am Seang Y [Goes by the codename #THECyb0rg]</h1>
+<h1 align="left">Hi 👋, I am Seang Y [C0dename #THECyb0rg]</h1>
 <p align="left"> <a href="https://twitter.com/phuon_y" target="blank"><img src="https://img.shields.io/twitter/follow/phuon_y?logo=twitter&style=for-the-badge" alt="phuon_y" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/THECyb0rgLab](https://github.com/THECyb0rgLab)
