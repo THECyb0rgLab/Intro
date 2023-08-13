@@ -26,6 +26,7 @@
 	▪ Certified Red Team Expert [CRTE]
 	▪ Bachelor Degree of Computer Science and Engineering [CSE] – Royal University of Phnom Penh, Cambodia </pre>
 <pre>❑ <b>Speaker and Panelist @:</b>
+	❑ Cybersecurity Landscape Asia 2023:
 	❑ Cambodia Cybersecurity 2023:
 		▪ https://tech-cambodia.com/articles/Cybersecurity-Cambodia-2023
 		▪ https://tech-cambodia.com/articles/Sunrise-Cybersecurity-Cambodia-2023
