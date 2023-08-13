@@ -24,11 +24,11 @@
 		▪ https://tech-cambodia.com/articles/Cybersecurity-Cambodia-2023
 		▪ https://tech-cambodia.com/articles/Sunrise-Cybersecurity-Cambodia-2023
 	❑ Cybersecurity Seminar at Cambodia Academy of Digital Technology (CADT):
-		▪ Reference: https://www.facebook.com/IDT.Academy
+		▪ https://www.facebook.com/IDT.Academy
 	❑ Young Bruiser Podcast:
-		▪ Reference: https://fb.watch/iRD43MLkXm/?mibextid=l066kq
+		▪ https://fb.watch/iRD43MLkXm/?mibextid=l066kq
 	❑ Cyber Youth Cambodia Event #16:
-		▪ Reference: https://secudemy.com/cyber-youth-cambodia-16-penetration-testing-and-red-teaming-operation
+		▪ https://secudemy.com/cyber-youth-cambodia-16-penetration-testing-and-red-teaming-operation
 </pre>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
