@@ -16,6 +16,7 @@
 	▪ Founder
 	▪ Ethical Hacker
 	▪ Zer0-Day Hunter
+❑ Red Team Lead @ Veilron Technologies Pte. Ltd.
 ❑ Red Team Member @ Synack
 ❑ Yogosha Strike Force @ Yogosha
 ❑ Instructor @ Sunrise Institute, @ OneSala E-Learning Platform
