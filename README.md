@@ -17,6 +17,7 @@
 	▪ Ethical Hacker
 	▪ Zer0-Day Hunter
 ❑ Red Team Member @ Synack
+❑ Yogosha Strike Force @ Yogosha
 ❑ Instructor @ Sunrise Institute, @ OneSala E-Learning Platform
 ❑ Formerly Manager, Cyber Risk @ Deloitte Cambodia</pre>
 <pre>❑ <b>Certifications:</b>
@@ -26,6 +27,7 @@
 	▪ Certified Red Team Expert [CRTE]
 	▪ Bachelor Degree of Computer Science and Engineering [CSE] – Royal University of Phnom Penh, Cambodia </pre>
 <pre>❑ <b>Speaker and Panelist @:</b>
+	❑ 1st Cybersecurity Bootcamp in Cambodia:
 	❑ Cybersecurity Landscape Asia 2023:
 	❑ Cambodia Cybersecurity 2023:
 		▪ https://tech-cambodia.com/articles/Cybersecurity-Cambodia-2023
