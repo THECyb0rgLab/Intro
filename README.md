@@ -24,8 +24,10 @@
 <pre>❑ <b>Certifications:</b>
 	▪ Certified Ethical Hacker [C|EH – Practical]
 	▪ OffSec Certified Professional [OSCP]
+	▪ Certified Penetration Testing Professional [CPENT]
 	▪ Certified Red Team Operator [CRTO]
 	▪ Certified Red Team Expert [CRTE]
+	▪ Certified Instrcutor for EC-Council and OffSec
 	▪ Bachelor Degree of Computer Science and Engineering [CSE] – Royal University of Phnom Penh, Cambodia </pre>
 <pre>❑ <b>Speaker and Panelist @:</b>
 	❑ 1st Cybersecurity Bootcamp in Cambodia:
