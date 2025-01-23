@@ -29,7 +29,9 @@
 	▪ Certified Red Team Expert [CRTE]
 	▪ Certified Instrcutor for EC-Council and OffSec
 	▪ Bachelor Degree of Computer Science and Engineering [CSE] – Royal University of Phnom Penh, Cambodia </pre>
-<pre>❑ <b>Speaker and Panelist @:</b>
+<pre>❑ <b>Publication, Speaker and Panelist @:</b>
+	❑ Publication: Attacking AD Evironment from Kali Linux
+	❑ Cambodia's Digital Edge: Hacker's Mindset: The Ultimate Zero-Day Exploit 
 	❑ 1st Cybersecurity Bootcamp in Cambodia:
 	❑ Cybersecurity Landscape Asia 2023:
 	❑ Cambodia Cybersecurity 2023:
